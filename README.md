@@ -1,12 +1,15 @@
 # C-Ogreniyorum
 
 #include <stdio.h>
+
 #include <stdlib.h>
 
 int main()
 {
     printf("Matrikslerle carpma islemi \n");
+    
     printf("\n-------------------------------------------------------------------------------\n\n");
+    
     int m,n,i,j,k,carp,say,a[100][100],b[100][100],c[100][100];
 
     printf("Matriks kac satir olsun? : ");scanf("%d",&m);
