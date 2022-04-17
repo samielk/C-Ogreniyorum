@@ -1,4 +1,6 @@
-# C-Ogreniyorum#include <stdio.h>
+# C-Ogreniyorum
+
+#include <stdio.h>
 #include <stdlib.h>
 
 int main()
