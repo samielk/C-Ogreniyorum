@@ -75,3 +75,5 @@ printf("\n-------------------Hesaplanan C dizisi ---------------\n\n");
 
 
 
+
+[Matriks carpma siralamasi-v01.xlsx](https://github.com/samielk/C-Ogreniyorum/files/8504483/Matriks.carpma.siralamasi-v01.xlsx)
